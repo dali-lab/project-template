@@ -1,7 +1,5 @@
 # Project Name
 
-## Overview
-
 TODO: short project description here
 
 TODO: some sample screenshots or mockups
