@@ -5,6 +5,7 @@
 TODO: short project description here
 
 TODO: some sample screenshots or mockups
+
 ![spongebob.gif](imgs/spongebob.gif)
 
 ## Docs
