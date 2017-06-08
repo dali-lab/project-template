@@ -1,7 +1,6 @@
 # Project Name
 
 TODO: short project description here
-
 TODO: some sample screenshots or mockups
 
 <img src="imgs/ar.jpg" height=200px>
@@ -33,6 +32,7 @@ TODO: how to deploy the project
 ## Authors
 
 TODO: list of authors with years and current term
+- author 1 (designer, PM)
 
 ## Acknowledgments
 
