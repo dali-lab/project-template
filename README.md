@@ -7,9 +7,9 @@ TODO: some sample screenshots or mockups
 <img src="imgs/protein.png" height=200px>
 
 ## Docs
-- [project proposal](https://docs.google.com/a/dali.dartmouth.edu/forms/d/e/1FAIpQLSeMBJFHZa7v5BGYa-UknniPbWvKty6IzG4myaNo-CEExCUcfw/viewform?fbzx=-2243464441135256300)
-- [feature spec](https://docs.google.com/a/dali.dartmouth.edu/forms/d/e/1FAIpQLSeMBJFHZa7v5BGYa-UknniPbWvKty6IzG4myaNo-CEExCUcfw/viewform?fbzx=-2243464441135256300)
-- [designs](https://docs.google.com/a/dali.dartmouth.edu/forms/d/e/1FAIpQLSeMBJFHZa7v5BGYa-UknniPbWvKty6IzG4myaNo-CEExCUcfw/viewform?fbzx=-2243464441135256300)
+- [project proposal](https://docs.google.com/document/d/1eUOWSDpmRE9037nOym1h5oGvgmbrT-mZnaj9arZcxyQ/edit)
+- [feature spec](https://docs.google.com/document/d/1pWNzAXyMH1gEyB6JDcAEkzpnNypdZPcqe3v6B2Uov7w/edit)
+- [designs](https://drive.google.com/drive/folders/0B2XEYQCAWMgUaVBXdTVoU2NGdjA)
 - anything else!
 
 
