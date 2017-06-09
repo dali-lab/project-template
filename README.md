@@ -15,7 +15,7 @@ TODO: some sample screenshots or mockups
 
 ## Architecture
 
-TODO: descriptions of code organization, tools, and libraries used
+TODO: descriptions of code organization (which code does what?), tools, and libraries used
   - [google](https://www.google.com/)
   - [github](https://github.com/)
 
