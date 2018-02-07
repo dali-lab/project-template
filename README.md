@@ -1,4 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/dali-lab/project-template.png?label=ready&title=Ready)](https://waffle.io/dali-lab/project-template?utm_source=badge)
 # Project Name
 
 TODO: short project description here
